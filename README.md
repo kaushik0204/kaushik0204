@@ -1,12 +1,7 @@
 # 💫 About Me
 
-I am an Electronics and Communication Engineering undergraduate with a strong interest in **AI/ML, Cloud Computing, Embedded Software Development, and VLSI Design**. I enjoy problem-solving and developing practical technology-driven solutions.
+I am an Electronics and Communication Engineering undergraduate with a strong interest in Artificial Intelligence and Machine Learning (AI/ML), Cloud Computing, Embedded Software Development, and VLSI Design. I am passionate about exploring emerging technologies and applying my technical knowledge to develop innovative solutions through hands-on projects, problem-solving, and continuous learning.
 
-I have built project-based solutions using Python, including a **multimodal video summarization system published in IEEE Xplore**. I have also worked on an **ADAS simulation project using CARLA** and developed embedded applications using **ARM7 microcontrollers**.
-
-Currently, I am strengthening my programming and software development skills through **Data Structures and Algorithms, Java, and PostgreSQL**, while exploring AI/ML and embedded technologies.
-
-I am actively seeking internship opportunities where I can apply my technical knowledge, contribute to real-world projects, and grow as an engineer.
 
 ## 🌐 Socials
 
